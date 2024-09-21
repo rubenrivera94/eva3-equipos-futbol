@@ -1,0 +1,21 @@
+﻿<Page x:Class="Equipo_Futbol_GUI.AcercaDePage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Equipo_Futbol_GUI"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="AcercaDePage">
+
+    <Grid >
+        <Border Padding="20" Margin="10" BorderBrush="Gray" BorderThickness="1">
+            <StackPanel VerticalAlignment="Center" HorizontalAlignment="Center">
+                <TextBlock FontSize="24" FontWeight="Bold" Text="Evaluacion 1 App Registro Equipos" Margin="0,0,0,20" HorizontalAlignment="Center"/>
+
+                <TextBlock FontSize="16" Text="Desarrollador: Ruben Rivera Barrientos" Margin="0,0,0,10" HorizontalAlignment="Center"/>
+                <TextBlock FontSize="16" Text="Año de Desarrollo: 2024" HorizontalAlignment="Center"/>
+            </StackPanel>
+        </Border>
+    </Grid>
+</Page>

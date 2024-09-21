@@ -1,0 +1,12 @@
+D:\escritorio\Programacion Componentes Escritorio\Evaluacion3_App_EquipoFutbol\Equipo_futbol_Data\bin\Release\Equipo_futbol_Data.dll.config
+D:\escritorio\Programacion Componentes Escritorio\Evaluacion3_App_EquipoFutbol\Equipo_futbol_Data\bin\Release\Equipo_futbol_Data.dll
+D:\escritorio\Programacion Componentes Escritorio\Evaluacion3_App_EquipoFutbol\Equipo_futbol_Data\bin\Release\Equipo_futbol_Data.pdb
+D:\escritorio\Programacion Componentes Escritorio\Evaluacion3_App_EquipoFutbol\Equipo_futbol_Data\bin\Release\EntityFramework.dll
+D:\escritorio\Programacion Componentes Escritorio\Evaluacion3_App_EquipoFutbol\Equipo_futbol_Data\bin\Release\EntityFramework.SqlServer.dll
+D:\escritorio\Programacion Componentes Escritorio\Evaluacion3_App_EquipoFutbol\Equipo_futbol_Data\bin\Release\EntityFramework.xml
+D:\escritorio\Programacion Componentes Escritorio\Evaluacion3_App_EquipoFutbol\Equipo_futbol_Data\bin\Release\EntityFramework.SqlServer.xml
+D:\escritorio\Programacion Componentes Escritorio\Evaluacion3_App_EquipoFutbol\Equipo_futbol_Data\obj\Release\Equipo_futbol_Data.csproj.AssemblyReference.cache
+D:\escritorio\Programacion Componentes Escritorio\Evaluacion3_App_EquipoFutbol\Equipo_futbol_Data\obj\Release\Equipo_futbol_Data.csproj.CoreCompileInputs.cache
+D:\escritorio\Programacion Componentes Escritorio\Evaluacion3_App_EquipoFutbol\Equipo_futbol_Data\obj\Release\Equipo_f.47103319.Up2Date
+D:\escritorio\Programacion Componentes Escritorio\Evaluacion3_App_EquipoFutbol\Equipo_futbol_Data\obj\Release\Equipo_futbol_Data.dll
+D:\escritorio\Programacion Componentes Escritorio\Evaluacion3_App_EquipoFutbol\Equipo_futbol_Data\obj\Release\Equipo_futbol_Data.pdb

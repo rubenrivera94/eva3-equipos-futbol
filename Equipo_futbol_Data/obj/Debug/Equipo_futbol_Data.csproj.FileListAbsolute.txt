@@ -1,0 +1,12 @@
+C:\Users\LENOVO\Desktop\Programacion Componentes Escritorio\Eva2_App_EquipoFutbol\Equipo_futbol_Data\bin\Debug\Equipo_futbol_Data.dll.config
+C:\Users\LENOVO\Desktop\Programacion Componentes Escritorio\Eva2_App_EquipoFutbol\Equipo_futbol_Data\bin\Debug\Equipo_futbol_Data.dll
+C:\Users\LENOVO\Desktop\Programacion Componentes Escritorio\Eva2_App_EquipoFutbol\Equipo_futbol_Data\bin\Debug\Equipo_futbol_Data.pdb
+C:\Users\LENOVO\Desktop\Programacion Componentes Escritorio\Eva2_App_EquipoFutbol\Equipo_futbol_Data\bin\Debug\EntityFramework.dll
+C:\Users\LENOVO\Desktop\Programacion Componentes Escritorio\Eva2_App_EquipoFutbol\Equipo_futbol_Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\LENOVO\Desktop\Programacion Componentes Escritorio\Eva2_App_EquipoFutbol\Equipo_futbol_Data\bin\Debug\EntityFramework.xml
+C:\Users\LENOVO\Desktop\Programacion Componentes Escritorio\Eva2_App_EquipoFutbol\Equipo_futbol_Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\LENOVO\Desktop\Programacion Componentes Escritorio\Eva2_App_EquipoFutbol\Equipo_futbol_Data\obj\Debug\Equipo_futbol_Data.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\Programacion Componentes Escritorio\Eva2_App_EquipoFutbol\Equipo_futbol_Data\obj\Debug\Equipo_futbol_Data.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\Programacion Componentes Escritorio\Eva2_App_EquipoFutbol\Equipo_futbol_Data\obj\Debug\Equipo_f.47103319.Up2Date
+C:\Users\LENOVO\Desktop\Programacion Componentes Escritorio\Eva2_App_EquipoFutbol\Equipo_futbol_Data\obj\Debug\Equipo_futbol_Data.dll
+C:\Users\LENOVO\Desktop\Programacion Componentes Escritorio\Eva2_App_EquipoFutbol\Equipo_futbol_Data\obj\Debug\Equipo_futbol_Data.pdb
